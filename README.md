@@ -1,5 +1,5 @@
 ## Hi there 👋
-# My name is Quinn Fricko, I am a biology major and a Information Science and Technology minor. I plan to go into research. 
+### My name is Quinn Fricko, I am a biology major and a Information Science and Technology minor. I plan to go into research. 
 <!--
 **quinnfricko/quinnfricko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
